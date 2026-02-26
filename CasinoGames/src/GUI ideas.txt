@@ -1,0 +1,6 @@
+The main page should contain somewhat styled buttons to pick what game to play.
+    Either this, or a vertical nav bar on the side.
+Upon choice, it shall trigger the existing code within CasinoApp.java for that game.
+As for display itself, could have it as graphics (or anims) in its own section of the window.
+    Key idea is to make it not be text-based and to rely more on visuals.
+
