@@ -1,7 +1,0 @@
-Fix bank logic in Colorwheel
-
-
-Go back over these games to refine or add improvements:
-HiLo
-Blackjack
-CoinFlip
